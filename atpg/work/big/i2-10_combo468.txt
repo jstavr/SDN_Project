@@ -1,0 +1,122 @@
+['atla', 'chic', 'hous', 'kans', 'losa', 'newy32aoa', 'wash']
+=== Loading transfer function from file work/Internet2/atla.tf ===
+=== Transfer function loaded from file work/Internet2/atla.tf ===
+=== Loading transfer function from file work/Internet2/chic.tf ===
+=== Transfer function loaded from file work/Internet2/chic.tf ===
+=== Loading transfer function from file work/Internet2/hous.tf ===
+=== Transfer function loaded from file work/Internet2/hous.tf ===
+=== Loading transfer function from file work/Internet2/kans.tf ===
+=== Transfer function loaded from file work/Internet2/kans.tf ===
+=== Loading transfer function from file work/Internet2/losa.tf ===
+=== Transfer function loaded from file work/Internet2/losa.tf ===
+=== Loading transfer function from file work/Internet2/newy32aoa.tf ===
+=== Transfer function loaded from file work/Internet2/newy32aoa.tf ===
+=== Loading transfer function from file work/Internet2/wash.tf ===
+=== Transfer function loaded from file work/Internet2/wash.tf ===
+=== Loading transfer function from file /home/mininet/SDN_Project2/SDN_Project/atpg/work/Internet2/combo468/backbone_topology.tf ===
+=== Transfer function loaded from file /home/mininet/SDN_Project2/SDN_Project/atpg/work/Internet2/combo468/backbone_topology.tf ===
+Total Rules: 60981
+Total Links: 40
+Total Length: 345
+New Length: 34
+Port:600025, Path No:2, Time: 0.563634s
+Port:600025, Compressed Path No:2, Time: 0.000069s
+Port:800022, Path No:0, Time: 0.000009s
+Port:800022, Compressed Path No:0, Time: 0.000011s
+Port:800008, Path No:0, Time: 0.000005s
+Port:800008, Compressed Path No:0, Time: 0.000004s
+Port:600012, Path No:2176, Time: 1.473550s
+Port:600012, Compressed Path No:2173, Time: 0.004584s
+Port:300001, Path No:2069, Time: 5.242250s
+Port:300001, Compressed Path No:2064, Time: 0.009627s
+Port:300038, Path No:0, Time: 0.000049s
+Port:300038, Compressed Path No:0, Time: 0.000014s
+Port:500022, Path No:6252, Time: 17.250065s
+Port:500022, Compressed Path No:2078, Time: 0.025686s
+Port:600031, Path No:0, Time: 0.000038s
+Port:600031, Compressed Path No:0, Time: 0.000011s
+Port:900047, Path No:0, Time: 0.000031s
+Port:900047, Compressed Path No:0, Time: 0.000005s
+Port:300008, Path No:0, Time: 0.000023s
+Port:300008, Compressed Path No:0, Time: 0.000005s
+Port:100031, Path No:15648, Time: 43.827378s
+Port:100031, Compressed Path No:1302, Time: 0.136043s
+Port:200020, Path No:3178, Time: 3.151187s
+Port:200020, Compressed Path No:1588, Time: 0.010932s
+Port:900039, Path No:0, Time: 0.000011s
+Port:900039, Compressed Path No:0, Time: 0.000014s
+Port:100027, Path No:3732, Time: 10.514523s
+Port:100027, Compressed Path No:1244, Time: 0.018807s
+Port:200036, Path No:126, Time: 0.852417s
+Port:200036, Compressed Path No:126, Time: 0.000504s
+Port:300041, Path No:0, Time: 0.000041s
+Port:300041, Compressed Path No:0, Time: 0.000012s
+Port:100009, Path No:1334, Time: 3.526812s
+Port:100009, Compressed Path No:1332, Time: 0.007924s
+Port:400032, Path No:1589, Time: 4.670043s
+Port:400032, Compressed Path No:1588, Time: 0.005390s
+Port:800006, Path No:0, Time: 0.000009s
+Port:800006, Compressed Path No:0, Time: 0.000011s
+Port:300007, Path No:2069, Time: 5.135080s
+Port:300007, Compressed Path No:2063, Time: 0.007353s
+Port:200044, Path No:1589, Time: 1.602009s
+Port:200044, Compressed Path No:1588, Time: 0.004145s
+Port:300019, Path No:2068, Time: 5.658483s
+Port:300019, Compressed Path No:2062, Time: 0.006790s
+Port:900028, Path No:0, Time: 0.000013s
+Port:900028, Compressed Path No:0, Time: 0.000016s
+Port:100001, Path No:1334, Time: 4.733955s
+Port:100001, Compressed Path No:1332, Time: 0.004543s
+Port:700008, Path No:0, Time: 0.000050s
+Port:700008, Compressed Path No:0, Time: 0.000011s
+Port:900037, Path No:0, Time: 0.000005s
+Port:900037, Compressed Path No:0, Time: 0.000003s
+Port:100032, Path No:2672, Time: 6.174733s
+Port:100032, Compressed Path No:1335, Time: 0.011453s
+Port:600038, Path No:0, Time: 0.000037s
+Port:600038, Compressed Path No:0, Time: 0.000011s
+Port:800012, Path No:0, Time: 0.000004s
+Port:800012, Compressed Path No:0, Time: 0.000003s
+Port:900036, Path No:0, Time: 0.000003s
+Port:900036, Compressed Path No:0, Time: 0.000003s
+Port:800001, Path No:0, Time: 0.000003s
+Port:800001, Compressed Path No:0, Time: 0.000002s
+Port:500033, Path No:1368, Time: 44.415992s
+Port:500033, Compressed Path No:147, Time: 0.015153s
+Port:700002, Path No:0, Time: 0.000038s
+Port:700002, Compressed Path No:0, Time: 0.000010s
+Port:400015, Path No:0, Time: 0.000015s
+Port:400015, Compressed Path No:0, Time: 0.000003s
+========== Before Compression =========
+Total Paths = 22024
+Average packets per port = 647.764706
+Total Time = 178.150136s
+Start a new round!
+22024
+Global Compression: Start=22024, End=7831, Ratio=0.355567, Time=0.257937
+End of this round.
+Start a new round!
+7831
+Global Compression: Start=7831, End=6904, Ratio=0.881624, Time=0.035801
+End of this round.
+Start a new round!
+6904
+Global Compression: Start=6904, End=6438, Ratio=0.932503, Time=0.026964
+End of this round.
+Start a new round!
+6438
+Global Compression: Start=6438, End=6206, Ratio=0.963964, Time=0.028490
+End of this round.
+Start a new round!
+6206
+Global Compression: Start=6206, End=6102, Ratio=0.983242, Time=0.021688
+End of this round.
+Start a new round!
+6102
+Global Compression: Start=6102, End=6043, Ratio=0.990331, Time=0.026492
+End of this round.
+========== After Compression =========
+Total Paths = 6043
+Average packets per port = 177.735294
+Average length of rule list = 4.497104
+Total Time = 2.254105s

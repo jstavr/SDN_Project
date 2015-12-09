@@ -1,0 +1,12 @@
+12$link$10$0$0$
+#
+link$[720022]$None$None$None$None$None$[500021]$#$#$$$link_1$
+link$[520021]$None$None$None$None$None$[700022]$#$#$$$link_2$
+link$[120020]$None$None$None$None$None$[900002]$#$#$$$link_3$
+link$[920002]$None$None$None$None$None$[100020]$#$#$$$link_4$
+link$[520020]$None$None$None$None$None$[700018]$#$#$$$link_5$
+link$[720018]$None$None$None$None$None$[500020]$#$#$$$link_6$
+link$[120030]$None$None$None$None$None$[900015]$#$#$$$link_7$
+link$[920015]$None$None$None$None$None$[100030]$#$#$$$link_8$
+link$[120032]$None$None$None$None$None$[900028]$#$#$$$link_9$
+link$[920028]$None$None$None$None$None$[100032]$#$#$$$link_10$

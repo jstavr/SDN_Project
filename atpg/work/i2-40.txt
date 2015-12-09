@@ -1,0 +1,50 @@
+=== Loading transfer function from file work/Internet2/atla.tf ===
+=== Transfer function loaded from file work/Internet2/atla.tf ===
+=== Loading transfer function from file work/Internet2/chic.tf ===
+=== Transfer function loaded from file work/Internet2/chic.tf ===
+=== Loading transfer function from file work/Internet2/backbone_topology.tf ===
+=== Transfer function loaded from file work/Internet2/backbone_topology.tf ===
+Total Rules: 17504
+Total Links: 4
+Total Length: 81
+New Length: 32
+Port:100017, Path No:3347, Time: 0.961533s
+Port:100017, Compressed Path No:3347, Time: 0.009241s
+Port:100009, Path No:3346, Time: 1.018295s
+Port:100009, Compressed Path No:3346, Time: 0.008348s
+Port:100025, Path No:3346, Time: 0.886299s
+Port:100025, Compressed Path No:3344, Time: 0.009029s
+Port:200045, Path No:9207, Time: 1.201330s
+Port:200045, Compressed Path No:3069, Time: 0.034247s
+Port:200013, Path No:0, Time: 0.000040s
+Port:200013, Compressed Path No:0, Time: 0.000012s
+Port:200007, Path No:44672, Time: 3.334283s
+Port:200007, Compressed Path No:5584, Time: 0.205535s
+Port:100014, Path No:0, Time: 0.000055s
+Port:100014, Compressed Path No:0, Time: 0.000014s
+Port:100028, Path No:6696, Time: 1.720955s
+Port:100028, Compressed Path No:3347, Time: 0.024082s
+Port:200016, Path No:0, Time: 0.000034s
+Port:200016, Compressed Path No:0, Time: 0.000012s
+Port:100005, Path No:0, Time: 0.000024s
+Port:100005, Compressed Path No:0, Time: 0.000004s
+Port:100001, Path No:3346, Time: 0.960984s
+Port:100001, Compressed Path No:3344, Time: 0.009449s
+Port:200021, Path No:0, Time: 0.000043s
+Port:200021, Compressed Path No:0, Time: 0.000011s
+Port:200020, Path No:11232, Time: 0.752369s
+Port:200020, Compressed Path No:5616, Time: 0.038268s
+Port:200034, Path No:0, Time: 0.000047s
+Port:200034, Compressed Path No:0, Time: 0.000012s
+Port:200031, Path No:5616, Time: 0.335578s
+Port:200031, Compressed Path No:5616, Time: 0.012185s
+Port:200048, Path No:0, Time: 0.000058s
+Port:200048, Compressed Path No:0, Time: 0.000013s
+Port:200041, Path No:11232, Time: 0.719301s
+Port:200041, Compressed Path No:5616, Time: 0.037964s
+Port:100019, Path No:1566, Time: 0.870491s
+Port:100019, Compressed Path No:1564, Time: 0.005140s
+Port:100010, Path No:3348, Time: 1.012843s
+Port:100010, Compressed Path No:3346, Time: 0.009100s
+Port:200027, Path No:38703, Time: 2.741284s
+Port:200027, Compressed Path No:5529, Time: 0.181738s

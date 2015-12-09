@@ -11,6 +11,8 @@ from config_parser.juniper_parser import *
 from headerspace.tf import *
 from time import time, clock
 
+from itertools import *
+
 st = time()
 output_path = "Internet2"
 rtr_names = [("atla",0),
@@ -84,17 +86,57 @@ topology = [("chic","xe-0/1/0","newy32aoa","xe-0/1/3"), #05667
             ("chic","xe-1/1/0","newy32aoa","xe-0/0/0"), #05239
             ]
 
-tf = TF(cs.HS_FORMAT()["length"]*2)
-# James: link ID should have prefix too.
-tf.set_prefix_id("link")
-for (from_router,from_port,to_router,to_port) in topology:
-    from_cs = cs_list[from_router]
-    to_cs = cs_list[to_router]
-    rule = TF.create_standard_rule([from_cs.get_port_id(from_port) + from_cs.PORT_TYPE_MULTIPLIER * from_cs.OUTPUT_PORT_TYPE_CONST], None,[to_cs.get_port_id(to_port)], None, None, "", [])
-    tf.add_link_rule(rule)
-    rule = TF.create_standard_rule([to_cs.get_port_id(to_port) + to_cs.PORT_TYPE_MULTIPLIER * to_cs.OUTPUT_PORT_TYPE_CONST], None,[from_cs.get_port_id(from_port)], None, None, "", [])
-    tf.add_link_rule(rule)
-tf.save_object_to_file(WORK_DIR+"backbone_topology.tf")
-en = time()
-print en - st
+
+
+
+i = 0
+count = 0
+for r in range(len(rtr_names)):
+
+    combos = list(combinations(rtr_names, r))
+
+    for combo in combos:
+        if not os.path.exists(WORK_DIR + "combo" + str(i)):
+            os.makedirs(WORK_DIR + "combo" + str(i))
+
+        combo_topo = []
+        combo_rtr_names = set()
+        for (rtr_name, vlan) in combo:
+            combo_rtr_names.add(rtr_name)
+        for (rtr1, x, rtr2, y) in topology:
+            if rtr1 in combo_rtr_names and rtr2 in combo_rtr_names:
+                combo_topo.append((rtr1, x, rtr2, y))
+
+        f = open(WORK_DIR+"/" + "combo" + str(i) + "/" + "combo.txt", "w")
+        f.write(str(combo_rtr_names))
+        f.close()
+
+
+
+
+            
+
+
+
+
+        tf = TF(cs.HS_FORMAT()["length"]*2)
+        # James: link ID should have prefix too.
+        tf.set_prefix_id("link")
+        for (from_router,from_port,to_router,to_port) in combo_topo:
+            
+
+            from_cs = cs_list[from_router]
+            to_cs = cs_list[to_router]
+            rule = TF.create_standard_rule([from_cs.get_port_id(from_port) + from_cs.PORT_TYPE_MULTIPLIER * from_cs.OUTPUT_PORT_TYPE_CONST], None,[to_cs.get_port_id(to_port)], None, None, "", [])
+            tf.add_link_rule(rule)
+            rule = TF.create_standard_rule([to_cs.get_port_id(to_port) + to_cs.PORT_TYPE_MULTIPLIER * to_cs.OUTPUT_PORT_TYPE_CONST], None,[from_cs.get_port_id(from_port)], None, None, "", [])
+            tf.add_link_rule(rule)
+            tf.save_object_to_file(WORK_DIR+"/" + "combo" + str(i) + "/" + "backbone_topology.tf")
+
+            en = time()
+            print en - st
+
+        i += 1
+
+
     

@@ -1,7 +1,11 @@
 #!/usr/bin/python
-import sqlite3, time, random
+import sqlite3, time, random, sys
 
-DATABASE_FILE = "work/internet2.sqlite"
+
+
+
+DATABASE_FILE = sys.argv[1]
+print DATABASE_FILE
 
 rule_lists = []
 query = "SELECT rules FROM test_packets_globally_compressed"

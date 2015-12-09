@@ -336,6 +336,8 @@ def main():
     parser.add_argument("-e", action="store_true",
                       default=False,
                       help="Edge port only")
+
+    parser.add_argument("--folder", dest="work_folder", help="Where to look for transfer functions")
     args = parser.parse_args()
     
     DATABASE_FILE = "work/%s" % args.filename
@@ -344,8 +346,8 @@ def main():
     output_port_addition = cs.PORT_TYPE_MULTIPLIER * cs.OUTPUT_PORT_TYPE_CONST
      
     # Load .tf files
-    ntf_global = load_internet2_backbone_ntf()
-    ttf_global = load_internet2_backbone_ttf()
+    ntf_global = load_internet2_backbone_ntf(args.work_folder)
+    ttf_global = load_internet2_backbone_ttf(args.work_folder)
     (port_map_global, port_reverse_map_global) = load_internet2_backbone_port_to_id_map()
     
     # Initialize the database

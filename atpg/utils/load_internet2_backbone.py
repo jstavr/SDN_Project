@@ -13,16 +13,32 @@ from multiprocessing import Pool
 
 rtr_names = ["atla",
              "chic",
-             "hous",
-             "kans",
-             "losa",
-             "newy32aoa",
-             "salt",
-             "seat",
-             "wash"
+#             "hous",
+#             "kans",
+#             "losa",
+#             "newy32aoa",
+#             "salt",
+#             "seat",
+#             "wash"
              ]
 
-def load_internet2_backbone_ntf():
+def load_internet2_backbone_ntf(work_folder):
+    f = open(work_folder + "combo.txt", "r")
+    l = f.readline()
+
+    l = l.replace("set([", "")
+    l = l.replace("]", "")
+    l = l.replace("'", "")
+    l = l.replace(" ", "")
+    l = l.replace(")", "")
+
+    new_list = l.split(",")
+
+             
+
+    print sorted(new_list)
+
+    
     emul_tf = emulated_tf(2, False)
 #    i = 0
     
@@ -34,7 +50,7 @@ def load_internet2_backbone_ntf():
 #        i = i+1
         
     pool = Pool()
-    result = pool.map_async(load_ntf, rtr_names)
+    result = pool.map_async(load_ntf, sorted(new_list))
 
     # Close
     pool.close()
@@ -53,9 +69,9 @@ def load_ntf(rtr_name):
     f.activate_exact_match_hash(range(5,8))
     return f
 
-def load_internet2_backbone_ttf():
+def load_internet2_backbone_ttf(work_folder):
     f = TF(1)
-    f.load_object_from_file("work/Internet2/backbone_topology.tf")
+    f.load_object_from_file(work_folder + "backbone_topology.tf")
     return f
 
 def load_internet2_backbone_port_to_id_map():

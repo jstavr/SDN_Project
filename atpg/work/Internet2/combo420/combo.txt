@@ -1,0 +1,1 @@
+set(['hous', 'seat', 'losa', 'salt', 'kans', 'atla'])

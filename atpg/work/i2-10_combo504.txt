@@ -1,0 +1,41 @@
+['atla', 'chic', 'hous', 'kans', 'losa', 'newy32aoa', 'seat', 'wash']
+=== Loading transfer function from file work/Internet2/atla.tf ===
+=== Transfer function loaded from file work/Internet2/atla.tf ===
+=== Loading transfer function from file work/Internet2/chic.tf ===
+=== Transfer function loaded from file work/Internet2/chic.tf ===
+=== Loading transfer function from file work/Internet2/hous.tf ===
+=== Transfer function loaded from file work/Internet2/hous.tf ===
+=== Loading transfer function from file work/Internet2/kans.tf ===
+=== Transfer function loaded from file work/Internet2/kans.tf ===
+=== Loading transfer function from file work/Internet2/losa.tf ===
+=== Transfer function loaded from file work/Internet2/losa.tf ===
+=== Loading transfer function from file work/Internet2/newy32aoa.tf ===
+=== Transfer function loaded from file work/Internet2/newy32aoa.tf ===
+=== Loading transfer function from file work/Internet2/seat.tf ===
+=== Transfer function loaded from file work/Internet2/seat.tf ===
+=== Loading transfer function from file work/Internet2/wash.tf ===
+=== Transfer function loaded from file work/Internet2/wash.tf ===
+=== Loading transfer function from file /home/mininet/SDN_Project2/SDN_Project/atpg/work/Internet2/combo504/backbone_topology.tf ===
+=== Transfer function loaded from file /home/mininet/SDN_Project2/SDN_Project/atpg/work/Internet2/combo504/backbone_topology.tf ===
+Total Rules: 69432
+Total Links: 44
+Total Length: 345
+New Length: 34
+Port:700019, Path No:0, Time: 0.000030s
+Port:700019, Compressed Path No:0, Time: 0.000034s
+Port:300017, Path No:0, Time: 0.000024s
+Port:300017, Compressed Path No:0, Time: 0.000005s
+Port:200026, Path No:2670, Time: 2.832547s
+Port:200026, Compressed Path No:1268, Time: 0.008715s
+Port:900017, Path No:0, Time: 0.000013s
+Port:900017, Compressed Path No:0, Time: 0.000014s
+Port:200040, Path No:7812, Time: 31.665170s
+Port:200040, Compressed Path No:311, Time: 0.084895s
+Port:200002, Path No:973, Time: 1.622865s
+Port:200002, Compressed Path No:973, Time: 0.002604s
+Port:100002, Path No:0, Time: 0.000050s
+Port:100002, Compressed Path No:0, Time: 0.000014s
+Port:700005, Path No:0, Time: 0.000030s
+Port:700005, Compressed Path No:0, Time: 0.000005s
+Port:300016, Path No:0, Time: 0.000021s
+Port:300016, Compressed Path No:0, Time: 0.000004s

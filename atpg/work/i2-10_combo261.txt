@@ -1,0 +1,37 @@
+['atla', 'chic', 'hous', 'losa', 'newy32aoa']
+=== Loading transfer function from file work/Internet2/atla.tf ===
+=== Transfer function loaded from file work/Internet2/atla.tf ===
+=== Loading transfer function from file work/Internet2/chic.tf ===
+=== Transfer function loaded from file work/Internet2/chic.tf ===
+=== Loading transfer function from file work/Internet2/hous.tf ===
+=== Transfer function loaded from file work/Internet2/hous.tf ===
+=== Loading transfer function from file work/Internet2/losa.tf ===
+=== Transfer function loaded from file work/Internet2/losa.tf ===
+=== Loading transfer function from file work/Internet2/newy32aoa.tf ===
+=== Transfer function loaded from file work/Internet2/newy32aoa.tf ===
+=== Loading transfer function from file /home/mininet/SDN_Project2/SDN_Project/atpg/work/Internet2/combo261/backbone_topology.tf ===
+=== Transfer function loaded from file /home/mininet/SDN_Project2/SDN_Project/atpg/work/Internet2/combo261/backbone_topology.tf ===
+Total Rules: 43384
+Total Links: 16
+Total Length: 345
+New Length: 34
+Port:400016, Path No:0, Time: 0.000167s
+Port:400016, Compressed Path No:0, Time: 0.000033s
+Port:700012, Path No:0, Time: 0.000005s
+Port:700012, Compressed Path No:0, Time: 0.000011s
+Port:300014, Path No:0, Time: 0.000027s
+Port:300014, Compressed Path No:0, Time: 0.000004s
+Port:200031, Path No:124, Time: 0.482685s
+Port:200031, Compressed Path No:124, Time: 0.000467s
+Port:500017, Path No:0, Time: 0.000044s
+Port:500017, Compressed Path No:0, Time: 0.000012s
+Port:600008, Path No:0, Time: 0.000005s
+Port:600008, Compressed Path No:0, Time: 0.000005s
+Port:900001, Path No:0, Time: 0.000004s
+Port:900001, Compressed Path No:0, Time: 0.000003s
+Port:300044, Path No:0, Time: 0.000037s
+Port:300044, Compressed Path No:0, Time: 0.000010s
+Port:900022, Path No:0, Time: 0.000004s
+Port:900022, Compressed Path No:0, Time: 0.000003s
+Port:500024, Path No:0, Time: 0.000019s
+Port:500024, Compressed Path No:0, Time: 0.000002s
