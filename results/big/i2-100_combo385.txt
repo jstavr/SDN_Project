@@ -1,0 +1,783 @@
+['atla', 'chic', 'hous', 'kans', 'losa', 'wash']
+=== Loading transfer function from file work/Internet2/atla.tf ===
+=== Transfer function loaded from file work/Internet2/atla.tf ===
+=== Loading transfer function from file work/Internet2/chic.tf ===
+=== Transfer function loaded from file work/Internet2/chic.tf ===
+=== Loading transfer function from file work/Internet2/hous.tf ===
+=== Transfer function loaded from file work/Internet2/hous.tf ===
+=== Loading transfer function from file work/Internet2/kans.tf ===
+=== Transfer function loaded from file work/Internet2/kans.tf ===
+=== Loading transfer function from file work/Internet2/losa.tf ===
+=== Transfer function loaded from file work/Internet2/losa.tf ===
+=== Loading transfer function from file work/Internet2/wash.tf ===
+=== Transfer function loaded from file work/Internet2/wash.tf ===
+=== Loading transfer function from file /home/mininet/SDN_Project2/SDN_Project/atpg/work/Internet2/combo385/backbone_topology.tf ===
+=== Transfer function loaded from file /home/mininet/SDN_Project2/SDN_Project/atpg/work/Internet2/combo385/backbone_topology.tf ===
+Total Rules: 52076
+Total Links: 32
+Total Length: 345
+New Length: 345
+Port:600024, Path No:0, Time: 0.000150s
+Port:600024, Compressed Path No:0, Time: 0.000031s
+Port:200016, Path No:0, Time: 0.000048s
+Port:200016, Compressed Path No:0, Time: 0.000005s
+Port:300023, Path No:0, Time: 0.000048s
+Port:300023, Compressed Path No:0, Time: 0.000004s
+Port:800013, Path No:0, Time: 0.000003s
+Port:800013, Compressed Path No:0, Time: 0.000002s
+Port:100015, Path No:15600, Time: 3.047151s
+Port:100015, Compressed Path No:11499, Time: 0.059971s
+Port:600036, Path No:0, Time: 0.000048s
+Port:600036, Compressed Path No:0, Time: 0.000011s
+Port:100011, Path No:0, Time: 0.000021s
+Port:100011, Compressed Path No:0, Time: 0.000003s
+Port:100030, Path No:21712, Time: 5.911147s
+Port:100030, Compressed Path No:6758, Time: 0.112046s
+Port:200044, Path No:8952, Time: 0.675597s
+Port:200044, Compressed Path No:8824, Time: 0.022121s
+Port:400023, Path No:198517, Time: 44.282863s
+Port:400023, Compressed Path No:13012, Time: 1.479114s
+Port:200018, Path No:17866, Time: 1.113855s
+Port:200018, Compressed Path No:8825, Time: 0.068267s
+Port:300015, Path No:0, Time: 0.000050s
+Port:300015, Compressed Path No:0, Time: 0.000013s
+Port:300047, Path No:38372, Time: 9.011659s
+Port:300047, Compressed Path No:13808, Time: 0.199433s
+Port:200042, Path No:0, Time: 0.000074s
+Port:200042, Compressed Path No:0, Time: 0.000016s
+Port:100022, Path No:46683, Time: 8.766515s
+Port:100022, Compressed Path No:11508, Time: 0.250769s
+Port:400032, Path No:13662, Time: 2.807050s
+Port:400032, Compressed Path No:10570, Time: 0.046565s
+Port:800005, Path No:0, Time: 0.000010s
+Port:800005, Compressed Path No:0, Time: 0.000012s
+Port:400014, Path No:18365, Time: 4.281033s
+Port:400014, Compressed Path No:13302, Time: 0.065128s
+Port:600019, Path No:0, Time: 0.000058s
+Port:600019, Compressed Path No:0, Time: 0.000014s
+Port:300011, Path No:19183, Time: 4.422423s
+Port:300011, Compressed Path No:13707, Time: 0.074634s
+Port:600020, Path No:0, Time: 0.000077s
+Port:600020, Compressed Path No:0, Time: 0.000013s
+Port:600002, Path No:0, Time: 0.000023s
+Port:600002, Compressed Path No:0, Time: 0.000004s
+Port:700017, Path No:0, Time: 0.000004s
+Port:700017, Compressed Path No:0, Time: 0.000000s
+Port:300033, Path No:76504, Time: 17.228526s
+Port:300033, Compressed Path No:13856, Time: 0.467332s
+Port:200004, Path No:8951, Time: 0.703000s
+Port:200004, Compressed Path No:8829, Time: 0.020978s
+Port:700002, Path No:0, Time: 0.000014s
+Port:700002, Compressed Path No:0, Time: 0.000014s
+Port:300046, Path No:19184, Time: 4.316917s
+Port:300046, Compressed Path No:13754, Time: 0.074525s
+Port:500007, Path No:20147, Time: 4.948491s
+Port:500007, Compressed Path No:13297, Time: 0.088863s
+Port:200007, Path No:71360, Time: 6.288225s
+Port:200007, Compressed Path No:8797, Time: 0.390569s
+Port:500032, Path No:0, Time: 0.000058s
+Port:500032, Compressed Path No:0, Time: 0.000013s
+Port:300040, Path No:0, Time: 0.000026s
+Port:300040, Compressed Path No:0, Time: 0.000004s
+Port:600007, Path No:0, Time: 0.000020s
+Port:600007, Compressed Path No:0, Time: 0.000004s
+Port:900050, Path No:0, Time: 0.000004s
+Port:900050, Compressed Path No:0, Time: 0.000003s
+Port:600038, Path No:0, Time: 0.000017s
+Port:600038, Compressed Path No:0, Time: 0.000004s
+Port:500023, Path No:59370, Time: 14.154700s
+Port:500023, Compressed Path No:13003, Time: 0.367732s
+Port:200038, Path No:53610, Time: 4.683758s
+Port:200038, Compressed Path No:8815, Time: 0.274171s
+Port:400028, Path No:0, Time: 0.000059s
+Port:400028, Compressed Path No:0, Time: 0.000015s
+Port:800024, Path No:0, Time: 0.000008s
+Port:800024, Compressed Path No:0, Time: 0.000006s
+Port:600027, Path No:0, Time: 0.000031s
+Port:600027, Compressed Path No:0, Time: 0.000005s
+Port:900006, Path No:0, Time: 0.000004s
+Port:900006, Compressed Path No:0, Time: 0.000004s
+Port:600030, Path No:0, Time: 0.000083s
+Port:600030, Compressed Path No:0, Time: 0.000006s
+Port:900011, Path No:0, Time: 0.000004s
+Port:900011, Compressed Path No:0, Time: 0.000003s
+Port:400008, Path No:18363, Time: 3.778333s
+Port:400008, Compressed Path No:13309, Time: 0.068858s
+Port:800019, Path No:0, Time: 0.000015s
+Port:800019, Compressed Path No:0, Time: 0.000000s
+Port:200010, Path No:8949, Time: 0.682710s
+Port:200010, Compressed Path No:8817, Time: 0.024904s
+Port:200023, Path No:17564, Time: 1.811640s
+Port:200023, Compressed Path No:8643, Time: 0.064364s
+Port:700006, Path No:0, Time: 0.000017s
+Port:700006, Compressed Path No:0, Time: 0.000015s
+Port:200009, Path No:17904, Time: 1.446915s
+Port:200009, Compressed Path No:8833, Time: 0.065150s
+Port:900030, Path No:0, Time: 0.000034s
+Port:900030, Compressed Path No:0, Time: 0.000016s
+Port:100007, Path No:31200, Time: 6.065279s
+Port:100007, Compressed Path No:11474, Time: 0.152712s
+Port:300030, Path No:19186, Time: 4.104658s
+Port:300030, Compressed Path No:13767, Time: 0.073696s
+Port:900024, Path No:0, Time: 0.000052s
+Port:900024, Compressed Path No:0, Time: 0.000015s
+Port:400025, Path No:55095, Time: 12.285762s
+Port:400025, Compressed Path No:13301, Time: 0.308090s
+Port:700018, Path No:0, Time: 0.000015s
+Port:700018, Compressed Path No:0, Time: 0.000015s
+Port:600015, Path No:0, Time: 0.000041s
+Port:600015, Compressed Path No:0, Time: 0.000007s
+Port:300034, Path No:0, Time: 0.000025s
+Port:300034, Compressed Path No:0, Time: 0.000006s
+Port:300026, Path No:19186, Time: 4.135835s
+Port:300026, Compressed Path No:13805, Time: 0.072198s
+Port:700016, Path No:0, Time: 0.000013s
+Port:700016, Compressed Path No:0, Time: 0.000014s
+Port:300024, Path No:0, Time: 0.000041s
+Port:300024, Compressed Path No:0, Time: 0.000007s
+Port:400030, Path No:73452, Time: 16.277823s
+Port:400030, Compressed Path No:13330, Time: 0.456871s
+Port:400003, Path No:0, Time: 0.000059s
+Port:400003, Compressed Path No:0, Time: 0.000014s
+Port:100029, Path No:0, Time: 0.000031s
+Port:100029, Compressed Path No:0, Time: 0.000005s
+Port:800030, Path No:0, Time: 0.000005s
+Port:800030, Compressed Path No:0, Time: 0.000043s
+Port:600009, Path No:0, Time: 0.000040s
+Port:600009, Compressed Path No:0, Time: 0.000007s
+Port:900021, Path No:0, Time: 0.000005s
+Port:900021, Compressed Path No:0, Time: 0.000005s
+Port:800020, Path No:0, Time: 0.000004s
+Port:800020, Compressed Path No:0, Time: 0.000004s
+Port:700020, Path No:0, Time: 0.000004s
+Port:700020, Compressed Path No:0, Time: 0.000004s
+Port:300004, Path No:38022, Time: 9.004356s
+Port:300004, Compressed Path No:13744, Time: 0.205688s
+Port:100026, Path No:15599, Time: 3.079182s
+Port:100026, Compressed Path No:11490, Time: 0.059153s
+Port:300042, Path No:0, Time: 0.000050s
+Port:300042, Compressed Path No:0, Time: 0.000014s
+Port:300031, Path No:0, Time: 0.000024s
+Port:300031, Compressed Path No:0, Time: 0.000004s
+Port:600013, Path No:0, Time: 0.000021s
+Port:600013, Compressed Path No:0, Time: 0.000004s
+Port:200020, Path No:17904, Time: 1.662759s
+Port:200020, Compressed Path No:8835, Time: 0.068321s
+Port:200048, Path No:0, Time: 0.000058s
+Port:200048, Compressed Path No:0, Time: 0.000013s
+Port:900019, Path No:0, Time: 0.000006s
+Port:900019, Compressed Path No:0, Time: 0.000005s
+Port:600021, Path No:0, Time: 0.000029s
+Port:600021, Compressed Path No:0, Time: 0.000005s
+Port:900037, Path No:0, Time: 0.000005s
+Port:900037, Compressed Path No:0, Time: 0.000003s
+Port:200021, Path No:0, Time: 0.000019s
+Port:200021, Compressed Path No:0, Time: 0.000003s
+Port:800035, Path No:0, Time: 0.000003s
+Port:800035, Compressed Path No:0, Time: 0.000003s
+Port:600034, Path No:0, Time: 0.000018s
+Port:600034, Compressed Path No:0, Time: 0.000004s
+Port:800009, Path No:0, Time: 0.000003s
+Port:800009, Compressed Path No:0, Time: 0.000003s
+Port:900027, Path No:0, Time: 0.000003s
+Port:900027, Compressed Path No:0, Time: 0.000003s
+Port:800016, Path No:0, Time: 0.000002s
+Port:800016, Compressed Path No:0, Time: 0.000002s
+Port:500022, Path No:60441, Time: 14.773117s
+Port:500022, Compressed Path No:13344, Time: 0.369586s
+Port:600011, Path No:0, Time: 0.000044s
+Port:600011, Compressed Path No:0, Time: 0.000011s
+Port:700007, Path No:0, Time: 0.000006s
+Port:700007, Compressed Path No:0, Time: 0.000005s
+Port:800002, Path No:0, Time: 0.000003s
+Port:800002, Compressed Path No:0, Time: 0.000002s
+Port:100020, Path No:31200, Time: 5.727031s
+Port:100020, Compressed Path No:11472, Time: 0.154352s
+Port:700011, Path No:0, Time: 0.000012s
+Port:700011, Compressed Path No:0, Time: 0.000013s
+Port:500015, Path No:20149, Time: 5.017914s
+Port:500015, Compressed Path No:13306, Time: 0.084219s
+Port:200001, Path No:0, Time: 0.000050s
+Port:200001, Compressed Path No:0, Time: 0.000013s
+Port:900009, Path No:0, Time: 0.000005s
+Port:900009, Compressed Path No:0, Time: 0.000004s
+Port:900023, Path No:0, Time: 0.000003s
+Port:900023, Compressed Path No:0, Time: 0.000003s
+Port:100027, Path No:46524, Time: 8.605905s
+Port:100027, Compressed Path No:11403, Time: 0.262896s
+Port:400001, Path No:0, Time: 0.000059s
+Port:400001, Compressed Path No:0, Time: 0.000015s
+Port:900005, Path No:0, Time: 0.000008s
+Port:900005, Compressed Path No:0, Time: 0.000006s
+Port:200013, Path No:0, Time: 0.000040s
+Port:200013, Compressed Path No:0, Time: 0.000004s
+Port:200006, Path No:0, Time: 0.000021s
+Port:200006, Compressed Path No:0, Time: 0.000004s
+Port:900004, Path No:0, Time: 0.000003s
+Port:900004, Compressed Path No:0, Time: 0.000003s
+Port:300012, Path No:0, Time: 0.000020s
+Port:300012, Compressed Path No:0, Time: 0.000004s
+Port:100006, Path No:0, Time: 0.000018s
+Port:100006, Compressed Path No:0, Time: 0.000003s
+Port:800026, Path No:0, Time: 0.000003s
+Port:800026, Compressed Path No:0, Time: 0.000002s
+Port:400015, Path No:0, Time: 0.000017s
+Port:400015, Compressed Path No:0, Time: 0.000002s
+Port:300037, Path No:0, Time: 0.000015s
+Port:300037, Compressed Path No:0, Time: 0.000003s
+Port:400026, Path No:55095, Time: 12.377047s
+Port:400026, Compressed Path No:13332, Time: 0.304576s
+Port:200008, Path No:8952, Time: 0.511691s
+Port:200008, Compressed Path No:8831, Time: 0.019841s
+Port:400004, Path No:0, Time: 0.000161s
+Port:400004, Compressed Path No:0, Time: 0.000014s
+Port:700001, Path No:0, Time: 0.000006s
+Port:700001, Compressed Path No:0, Time: 0.000005s
+Port:900015, Path No:0, Time: 0.000004s
+Port:900015, Compressed Path No:0, Time: 0.000004s
+Port:500031, Path No:181107, Time: 43.125828s
+Port:500031, Compressed Path No:13346, Time: 1.354140s
+Port:400011, Path No:18363, Time: 3.524434s
+Port:400011, Compressed Path No:13281, Time: 0.069491s
+Port:700003, Path No:0, Time: 0.000000s
+Port:700003, Compressed Path No:0, Time: 0.000013s
+Port:500001, Path No:0, Time: 0.000036s
+Port:500001, Compressed Path No:0, Time: 0.000004s
+Port:600031, Path No:0, Time: 0.000021s
+Port:600031, Compressed Path No:0, Time: 0.000003s
+Port:300043, Path No:13827, Time: 2.917743s
+Port:300043, Compressed Path No:9824, Time: 0.053267s
+Port:400009, Path No:18365, Time: 4.091487s
+Port:400009, Compressed Path No:13334, Time: 0.067480s
+Port:600028, Path No:0, Time: 0.000049s
+Port:600028, Compressed Path No:0, Time: 0.000013s
+Port:900034, Path No:0, Time: 0.000005s
+Port:900034, Compressed Path No:0, Time: 0.000005s
+Port:800004, Path No:0, Time: 0.000003s
+Port:800004, Compressed Path No:0, Time: 0.000003s
+Port:400029, Path No:165078, Time: 35.820358s
+Port:400029, Compressed Path No:13348, Time: 1.140921s
+Port:600022, Path No:0, Time: 0.000067s
+Port:600022, Compressed Path No:0, Time: 0.000016s
+Port:500018, Path No:20147, Time: 4.380249s
+Port:500018, Compressed Path No:13302, Time: 0.084481s
+Port:500012, Path No:20147, Time: 4.734773s
+Port:500012, Compressed Path No:13312, Time: 0.083810s
+Port:600029, Path No:0, Time: 0.000000s
+Port:600029, Compressed Path No:0, Time: 0.000014s
+Port:500020, Path No:19778, Time: 4.910768s
+Port:500020, Compressed Path No:13024, Time: 0.083013s
+Port:100013, Path No:0, Time: 0.000046s
+Port:100013, Compressed Path No:0, Time: 0.000012s
+Port:300017, Path No:0, Time: 0.000020s
+Port:300017, Compressed Path No:0, Time: 0.000003s
+Port:600003, Path No:0, Time: 0.000017s
+Port:600003, Compressed Path No:0, Time: 0.000002s
+Port:900040, Path No:0, Time: 0.000003s
+Port:900040, Compressed Path No:0, Time: 0.000002s
+Port:600001, Path No:0, Time: 0.000013s
+Port:600001, Compressed Path No:0, Time: 0.000002s
+Port:100014, Path No:0, Time: 0.000013s
+Port:100014, Compressed Path No:0, Time: 0.000002s
+Port:100031, Path No:186816, Time: 34.164831s
+Port:100031, Compressed Path No:11379, Time: 1.345384s
+Port:700021, Path No:0, Time: 0.000012s
+Port:700021, Compressed Path No:0, Time: 0.000013s
+Port:400005, Path No:18363, Time: 3.893490s
+Port:400005, Compressed Path No:13287, Time: 0.068642s
+Port:200039, Path No:228124, Time: 18.466406s
+Port:200039, Compressed Path No:8649, Time: 1.500355s
+Port:100010, Path No:15600, Time: 2.639798s
+Port:100010, Compressed Path No:11527, Time: 0.054437s
+Port:200043, Path No:8950, Time: 0.874154s
+Port:200043, Compressed Path No:8821, Time: 0.020877s
+Port:400027, Path No:36730, Time: 8.195382s
+Port:400027, Compressed Path No:13350, Time: 0.188119s
+Port:700004, Path No:0, Time: 0.000011s
+Port:700004, Compressed Path No:0, Time: 0.000014s
+Port:800028, Path No:0, Time: 0.000008s
+Port:800028, Compressed Path No:0, Time: 0.000008s
+Port:900029, Path No:0, Time: 0.000005s
+Port:900029, Compressed Path No:0, Time: 0.000004s
+Port:800034, Path No:0, Time: 0.000004s
+Port:800034, Compressed Path No:0, Time: 0.000004s
+Port:300028, Path No:0, Time: 0.000040s
+Port:300028, Compressed Path No:0, Time: 0.000004s
+Port:900038, Path No:0, Time: 0.000004s
+Port:900038, Compressed Path No:0, Time: 0.000004s
+Port:900046, Path No:0, Time: 0.000004s
+Port:900046, Compressed Path No:0, Time: 0.000003s
+Port:800014, Path No:0, Time: 0.000003s
+Port:800014, Compressed Path No:0, Time: 0.000004s
+Port:600010, Path No:0, Time: 0.000038s
+Port:600010, Compressed Path No:0, Time: 0.000007s
+Port:900018, Path No:0, Time: 0.000004s
+Port:900018, Compressed Path No:0, Time: 0.000004s
+Port:500011, Path No:0, Time: 0.000023s
+Port:500011, Compressed Path No:0, Time: 0.000004s
+Port:100012, Path No:0, Time: 0.000020s
+Port:100012, Compressed Path No:0, Time: 0.000004s
+Port:300036, Path No:0, Time: 0.000017s
+Port:300036, Compressed Path No:0, Time: 0.000013s
+Port:500026, Path No:20147, Time: 4.771647s
+Port:500026, Compressed Path No:13290, Time: 0.088856s
+Port:700005, Path No:0, Time: 0.000012s
+Port:700005, Compressed Path No:0, Time: 0.000014s
+Port:100019, Path No:9209, Time: 1.192395s
+Port:100019, Compressed Path No:8207, Time: 0.026558s
+Port:400007, Path No:36708, Time: 8.311964s
+Port:400007, Compressed Path No:13320, Time: 0.186808s
+Port:500016, Path No:0, Time: 0.000068s
+Port:500016, Compressed Path No:0, Time: 0.000016s
+Port:900002, Path No:0, Time: 0.000009s
+Port:900002, Compressed Path No:0, Time: 0.000007s
+Port:900043, Path No:0, Time: 0.000006s
+Port:900043, Compressed Path No:0, Time: 0.000005s
+Port:600033, Path No:0, Time: 0.000035s
+Port:600033, Compressed Path No:0, Time: 0.000007s
+Port:400031, Path No:109566, Time: 23.979438s
+Port:400031, Compressed Path No:13299, Time: 0.712587s
+Port:700019, Path No:0, Time: 0.000013s
+Port:700019, Compressed Path No:0, Time: 0.000013s
+Port:200002, Path No:8399, Time: 0.426107s
+Port:200002, Compressed Path No:8399, Time: 0.021479s
+Port:900035, Path No:0, Time: 0.000011s
+Port:900035, Compressed Path No:0, Time: 0.000014s
+Port:800015, Path No:0, Time: 0.000005s
+Port:800015, Compressed Path No:0, Time: 0.000004s
+Port:200045, Path No:19215, Time: 1.369274s
+Port:200045, Compressed Path No:6284, Time: 0.079470s
+Port:800010, Path No:0, Time: 0.000018s
+Port:800010, Compressed Path No:0, Time: 0.000095s
+Port:600006, Path No:0, Time: 0.000035s
+Port:600006, Compressed Path No:0, Time: 0.000009s
+Port:300019, Path No:19184, Time: 4.614902s
+Port:300019, Compressed Path No:13853, Time: 0.071760s
+Port:500030, Path No:0, Time: 0.000051s
+Port:500030, Compressed Path No:0, Time: 0.000013s
+Port:400021, Path No:17483, Time: 4.149689s
+Port:400021, Compressed Path No:12514, Time: 0.067100s
+Port:200034, Path No:0, Time: 0.000074s
+Port:200034, Compressed Path No:0, Time: 0.000014s
+Port:800008, Path No:0, Time: 0.000006s
+Port:800008, Compressed Path No:0, Time: 0.000005s
+Port:500027, Path No:40298, Time: 9.569790s
+Port:500027, Compressed Path No:13356, Time: 0.234601s
+Port:600023, Path No:0, Time: 0.000048s
+Port:600023, Compressed Path No:0, Time: 0.000012s
+Port:900022, Path No:0, Time: 0.000007s
+Port:900022, Compressed Path No:0, Time: 0.000000s
+Port:200011, Path No:8950, Time: 0.863694s
+Port:200011, Compressed Path No:8826, Time: 0.021673s
+Port:300009, Path No:0, Time: 0.000057s
+Port:300009, Compressed Path No:0, Time: 0.000011s
+Port:500024, Path No:38924, Time: 9.626472s
+Port:500024, Compressed Path No:12598, Time: 0.219478s
+Port:600037, Path No:0, Time: 0.000056s
+Port:600037, Compressed Path No:0, Time: 0.000015s
+Port:600005, Path No:0, Time: 0.000030s
+Port:600005, Compressed Path No:0, Time: 0.000004s
+Port:600025, Path No:0, Time: 0.000019s
+Port:600025, Compressed Path No:0, Time: 0.000004s
+Port:900003, Path No:0, Time: 0.000003s
+Port:900003, Compressed Path No:0, Time: 0.000003s
+Port:200015, Path No:0, Time: 0.000020s
+Port:200015, Compressed Path No:0, Time: 0.000003s
+Port:900014, Path No:0, Time: 0.000003s
+Port:900014, Compressed Path No:0, Time: 0.000003s
+Port:600035, Path No:0, Time: 0.000017s
+Port:600035, Compressed Path No:0, Time: 0.000003s
+Port:900012, Path No:0, Time: 0.000003s
+Port:900012, Compressed Path No:0, Time: 0.000003s
+Port:100008, Path No:15598, Time: 2.971167s
+Port:100008, Compressed Path No:11505, Time: 0.057966s
+Port:100033, Path No:15597, Time: 3.062539s
+Port:100033, Compressed Path No:11528, Time: 0.060561s
+Port:900008, Path No:0, Time: 0.000012s
+Port:900008, Compressed Path No:0, Time: 0.000020s
+Port:900036, Path No:0, Time: 0.000004s
+Port:900036, Compressed Path No:0, Time: 0.000004s
+Port:900039, Path No:0, Time: 0.000003s
+Port:900039, Compressed Path No:0, Time: 0.000003s
+Port:400010, Path No:18363, Time: 4.288622s
+Port:400010, Compressed Path No:13318, Time: 0.067097s
+Port:300003, Path No:12850, Time: 2.790736s
+Port:300003, Compressed Path No:9658, Time: 0.044184s
+Port:100018, Path No:15599, Time: 3.059139s
+Port:100018, Compressed Path No:11514, Time: 0.058381s
+Port:200035, Path No:35808, Time: 2.965427s
+Port:200035, Compressed Path No:8828, Time: 0.167241s
+Port:800023, Path No:0, Time: 0.000014s
+Port:800023, Compressed Path No:0, Time: 0.000015s
+Port:900010, Path No:0, Time: 0.000005s
+Port:900010, Compressed Path No:0, Time: 0.000004s
+Port:800017, Path No:0, Time: 0.000004s
+Port:800017, Compressed Path No:0, Time: 0.000003s
+Port:500003, Path No:0, Time: 0.000035s
+Port:500003, Compressed Path No:0, Time: 0.000003s
+Port:300005, Path No:38372, Time: 8.695064s
+Port:300005, Compressed Path No:13760, Time: 0.192692s
+Port:200047, Path No:26856, Time: 2.161883s
+Port:200047, Compressed Path No:8820, Time: 0.113453s
+Port:300007, Path No:19185, Time: 4.269636s
+Port:300007, Compressed Path No:13692, Time: 0.076924s
+Port:300002, Path No:0, Time: 0.000049s
+Port:300002, Compressed Path No:0, Time: 0.000011s
+Port:100005, Path No:0, Time: 0.000021s
+Port:100005, Compressed Path No:0, Time: 0.000004s
+Port:200025, Path No:6296, Time: 0.831734s
+Port:200025, Compressed Path No:6174, Time: 0.014818s
+Port:900001, Path No:0, Time: 0.000012s
+Port:900001, Compressed Path No:0, Time: 0.000013s
+Port:800036, Path No:0, Time: 0.000005s
+Port:800036, Compressed Path No:0, Time: 0.000004s
+Port:300045, Path No:19185, Time: 4.195529s
+Port:300045, Compressed Path No:13849, Time: 0.072963s
+Port:300038, Path No:0, Time: 0.000108s
+Port:300038, Compressed Path No:0, Time: 0.000012s
+Port:200030, Path No:17668, Time: 1.590761s
+Port:200030, Compressed Path No:8708, Time: 0.064600s
+Port:500021, Path No:20148, Time: 4.943280s
+Port:500021, Compressed Path No:13295, Time: 0.085464s
+Port:500025, Path No:40256, Time: 9.699000s
+Port:500025, Compressed Path No:13334, Time: 0.227327s
+Port:800022, Path No:0, Time: 0.000015s
+Port:800022, Compressed Path No:0, Time: 0.000018s
+Port:500004, Path No:0, Time: 0.000041s
+Port:500004, Compressed Path No:0, Time: 0.000007s
+Port:300032, Path No:0, Time: 0.000024s
+Port:300032, Compressed Path No:0, Time: 0.000017s
+Port:600032, Path No:0, Time: 0.000038s
+Port:600032, Compressed Path No:0, Time: 0.000006s
+Port:300018, Path No:19185, Time: 4.181986s
+Port:300018, Compressed Path No:13684, Time: 0.074242s
+Port:800029, Path No:0, Time: 0.000013s
+Port:800029, Compressed Path No:0, Time: 0.000013s
+Port:400017, Path No:18364, Time: 4.077970s
+Port:400017, Compressed Path No:13276, Time: 0.071183s
+Port:700012, Path No:0, Time: 0.000013s
+Port:700012, Compressed Path No:0, Time: 0.000012s
+Port:700008, Path No:0, Time: 0.000005s
+Port:700008, Compressed Path No:0, Time: 0.000003s
+Port:200003, Path No:8951, Time: 0.726215s
+Port:200003, Compressed Path No:8836, Time: 0.020372s
+Port:300025, Path No:0, Time: 0.000047s
+Port:300025, Compressed Path No:0, Time: 0.000012s
+Port:900033, Path No:0, Time: 0.000005s
+Port:900033, Compressed Path No:0, Time: 0.000004s
+Port:900044, Path No:0, Time: 0.000004s
+Port:900044, Compressed Path No:0, Time: 0.000003s
+Port:500010, Path No:0, Time: 0.000022s
+Port:500010, Compressed Path No:0, Time: 0.000003s
+Port:900032, Path No:0, Time: 0.000003s
+Port:900032, Compressed Path No:0, Time: 0.000003s
+Port:100024, Path No:61996, Time: 11.800364s
+Port:100024, Compressed Path No:11409, Time: 0.361088s
+Port:100017, Path No:15599, Time: 3.001923s
+Port:100017, Compressed Path No:11495, Time: 0.056479s
+Port:200033, Path No:0, Time: 0.000097s
+Port:200033, Compressed Path No:0, Time: 0.000013s
+Port:900028, Path No:0, Time: 0.000006s
+Port:900028, Compressed Path No:0, Time: 0.000003s
+Port:800018, Path No:0, Time: 0.000003s
+Port:800018, Compressed Path No:0, Time: 0.000002s
+Port:200024, Path No:44730, Time: 3.890825s
+Port:200024, Compressed Path No:8823, Time: 0.215536s
+Port:500017, Path No:20148, Time: 4.511073s
+Port:500017, Compressed Path No:13330, Time: 0.085120s
+Port:400024, Path No:18363, Time: 4.282781s
+Port:400024, Compressed Path No:13367, Time: 0.067561s
+Port:800011, Path No:0, Time: 0.000012s
+Port:800011, Compressed Path No:0, Time: 0.000013s
+Port:100025, Path No:15598, Time: 2.859994s
+Port:100025, Compressed Path No:11466, Time: 0.055241s
+Port:700014, Path No:0, Time: 0.000012s
+Port:700014, Compressed Path No:0, Time: 0.000021s
+Port:100016, Path No:0, Time: 0.000033s
+Port:100016, Compressed Path No:0, Time: 0.000004s
+Port:700009, Path No:0, Time: 0.000003s
+Port:700009, Compressed Path No:0, Time: 0.000003s
+Port:200046, Path No:26856, Time: 2.344129s
+Port:200046, Compressed Path No:8829, Time: 0.118708s
+Port:800032, Path No:0, Time: 0.000014s
+Port:800032, Compressed Path No:0, Time: 0.000015s
+Port:900031, Path No:0, Time: 0.000007s
+Port:900031, Compressed Path No:0, Time: 0.000005s
+Port:800007, Path No:0, Time: 0.000004s
+Port:800007, Compressed Path No:0, Time: 0.000004s
+Port:500014, Path No:0, Time: 0.000041s
+Port:500014, Compressed Path No:0, Time: 0.000004s
+Port:600018, Path No:0, Time: 0.000025s
+Port:600018, Compressed Path No:0, Time: 0.000004s
+Port:300022, Path No:19184, Time: 4.529292s
+Port:300022, Compressed Path No:13865, Time: 0.073534s
+Port:300044, Path No:0, Time: 0.000051s
+Port:300044, Compressed Path No:0, Time: 0.000012s
+Port:300039, Path No:0, Time: 0.000024s
+Port:300039, Compressed Path No:0, Time: 0.000004s
+Port:900026, Path No:0, Time: 0.000004s
+Port:900026, Compressed Path No:0, Time: 0.000003s
+Port:400022, Path No:18378, Time: 4.656968s
+Port:400022, Compressed Path No:4124, Time: 0.091746s
+Port:500008, Path No:20149, Time: 4.822733s
+Port:500008, Compressed Path No:13336, Time: 0.085813s
+Port:200027, Path No:62055, Time: 5.213022s
+Port:200027, Compressed Path No:8726, Time: 0.318422s
+Port:300010, Path No:210650, Time: 46.981481s
+Port:300010, Compressed Path No:13754, Time: 1.515384s
+Port:200036, Path No:7491, Time: 0.513885s
+Port:200036, Compressed Path No:7359, Time: 0.018516s
+Port:800031, Path No:0, Time: 0.000012s
+Port:800031, Compressed Path No:0, Time: 0.000014s
+Port:800021, Path No:0, Time: 0.000005s
+Port:800021, Compressed Path No:0, Time: 0.000004s
+Port:700010, Path No:0, Time: 0.000003s
+Port:700010, Compressed Path No:0, Time: 0.000003s
+Port:300014, Path No:0, Time: 0.000034s
+Port:300014, Compressed Path No:0, Time: 0.000003s
+Port:900048, Path No:0, Time: 0.000004s
+Port:900048, Compressed Path No:0, Time: 0.000003s
+Port:100002, Path No:0, Time: 0.000020s
+Port:100002, Compressed Path No:0, Time: 0.000002s
+Port:100009, Path No:15598, Time: 2.529773s
+Port:100009, Compressed Path No:11517, Time: 0.058630s
+Port:800001, Path No:0, Time: 0.000011s
+Port:800001, Compressed Path No:0, Time: 0.000012s
+Port:900020, Path No:0, Time: 0.000005s
+Port:900020, Compressed Path No:0, Time: 0.000004s
+Port:300050, Path No:11993, Time: 2.478640s
+Port:300050, Compressed Path No:8443, Time: 0.057390s
+Port:800025, Path No:0, Time: 0.000014s
+Port:800025, Compressed Path No:0, Time: 0.000016s
+Port:700023, Path No:0, Time: 0.000005s
+Port:700023, Compressed Path No:0, Time: 0.000006s
+Port:500006, Path No:40278, Time: 9.741579s
+Port:500006, Compressed Path No:13341, Time: 0.225779s
+Port:600026, Path No:0, Time: 0.000040s
+Port:600026, Compressed Path No:0, Time: 0.000021s
+Port:200031, Path No:8952, Time: 0.708569s
+Port:200031, Compressed Path No:8824, Time: 0.019542s
+Port:200037, Path No:8938, Time: 0.876401s
+Port:200037, Compressed Path No:8815, Time: 0.021166s
+Port:200005, Path No:8951, Time: 0.702225s
+Port:200005, Compressed Path No:8822, Time: 0.022209s
+Port:300035, Path No:0, Time: 0.000070s
+Port:300035, Compressed Path No:0, Time: 0.000010s
+Port:200026, Path No:17900, Time: 1.632637s
+Port:200026, Compressed Path No:8835, Time: 0.067042s
+Port:500009, Path No:0, Time: 0.000050s
+Port:500009, Compressed Path No:0, Time: 0.000013s
+Port:300021, Path No:38350, Time: 8.588193s
+Port:300021, Compressed Path No:13839, Time: 0.191906s
+Port:100021, Path No:11441, Time: 2.085840s
+Port:100021, Compressed Path No:8582, Time: 0.041092s
+Port:300029, Path No:0, Time: 0.000052s
+Port:300029, Compressed Path No:0, Time: 0.000012s
+Port:800012, Path No:0, Time: 0.000005s
+Port:800012, Compressed Path No:0, Time: 0.000003s
+Port:200017, Path No:26856, Time: 2.401788s
+Port:200017, Compressed Path No:8825, Time: 0.113132s
+Port:300041, Path No:0, Time: 0.000050s
+Port:300041, Compressed Path No:0, Time: 0.000013s
+Port:200032, Path No:0, Time: 0.000025s
+Port:200032, Compressed Path No:0, Time: 0.000004s
+Port:900017, Path No:0, Time: 0.000004s
+Port:900017, Compressed Path No:0, Time: 0.000003s
+Port:600012, Path No:0, Time: 0.000020s
+Port:600012, Compressed Path No:0, Time: 0.000003s
+Port:900047, Path No:0, Time: 0.000003s
+Port:900047, Compressed Path No:0, Time: 0.000003s
+Port:600016, Path No:0, Time: 0.000017s
+Port:600016, Compressed Path No:0, Time: 0.000003s
+Port:200028, Path No:17688, Time: 1.410580s
+Port:200028, Compressed Path No:8710, Time: 0.063664s
+Port:700013, Path No:0, Time: 0.000012s
+Port:700013, Compressed Path No:0, Time: 0.000013s
+Port:500002, Path No:0, Time: 0.000037s
+Port:500002, Compressed Path No:0, Time: 0.000004s
+Port:600014, Path No:0, Time: 0.000021s
+Port:600014, Compressed Path No:0, Time: 0.000003s
+Port:200022, Path No:8952, Time: 0.832995s
+Port:200022, Compressed Path No:8834, Time: 0.022815s
+Port:500019, Path No:3433, Time: 0.329434s
+Port:500019, Compressed Path No:3433, Time: 0.007864s
+Port:400006, Path No:36730, Time: 8.158855s
+Port:400006, Compressed Path No:13373, Time: 0.181094s
+Port:900025, Path No:0, Time: 0.000013s
+Port:900025, Compressed Path No:0, Time: 0.000013s
+Port:600004, Path No:0, Time: 0.000067s
+Port:600004, Compressed Path No:0, Time: 0.000005s
+Port:500005, Path No:40298, Time: 9.825571s
+Port:500005, Compressed Path No:13236, Time: 0.216899s
+Port:800027, Path No:0, Time: 0.000012s
+Port:800027, Compressed Path No:0, Time: 0.000013s
+Port:500013, Path No:20147, Time: 4.807510s
+Port:500013, Compressed Path No:13311, Time: 0.084273s
+Port:400016, Path No:18364, Time: 3.881101s
+Port:400016, Compressed Path No:13285, Time: 0.068545s
+Port:700022, Path No:0, Time: 0.000014s
+Port:700022, Compressed Path No:0, Time: 0.000013s
+Port:900013, Path No:0, Time: 0.000005s
+Port:900013, Compressed Path No:0, Time: 0.000004s
+Port:700024, Path No:0, Time: 0.000004s
+Port:700024, Compressed Path No:0, Time: 0.000004s
+Port:100028, Path No:31200, Time: 6.011442s
+Port:100028, Compressed Path No:11493, Time: 0.157256s
+Port:100023, Path No:31148, Time: 6.066781s
+Port:100023, Compressed Path No:11506, Time: 0.149022s
+Port:300020, Path No:0, Time: 0.000101s
+Port:300020, Compressed Path No:0, Time: 0.000014s
+Port:300049, Path No:19184, Time: 4.130780s
+Port:300049, Compressed Path No:13734, Time: 0.074230s
+Port:100003, Path No:0, Time: 0.000050s
+Port:100003, Compressed Path No:0, Time: 0.000016s
+Port:200012, Path No:8950, Time: 0.867179s
+Port:200012, Compressed Path No:8840, Time: 0.021016s
+Port:500033, Path No:163935, Time: 43.293434s
+Port:500033, Compressed Path No:11332, Time: 1.225870s
+Port:200019, Path No:17900, Time: 1.032212s
+Port:200019, Compressed Path No:8820, Time: 0.064939s
+Port:800033, Path No:0, Time: 0.000058s
+Port:800033, Compressed Path No:0, Time: 0.000013s
+Port:600008, Path No:0, Time: 0.000036s
+Port:600008, Compressed Path No:0, Time: 0.000004s
+Port:100004, Path No:15598, Time: 2.480787s
+Port:100004, Compressed Path No:11493, Time: 0.061019s
+Port:200040, Path No:167727, Time: 15.009324s
+Port:200040, Compressed Path No:7857, Time: 1.019332s
+Port:900007, Path No:0, Time: 0.000012s
+Port:900007, Compressed Path No:0, Time: 0.000049s
+Port:200041, Path No:17904, Time: 1.605006s
+Port:200041, Compressed Path No:8831, Time: 0.064802s
+Port:200029, Path No:53682, Time: 4.263147s
+Port:200029, Compressed Path No:8833, Time: 0.265433s
+Port:100001, Path No:15598, Time: 3.188867s
+Port:100001, Compressed Path No:11529, Time: 0.057108s
+Port:300008, Path No:0, Time: 0.000490s
+Port:300008, Compressed Path No:0, Time: 0.000015s
+Port:400013, Path No:0, Time: 0.000034s
+Port:400013, Compressed Path No:0, Time: 0.000006s
+Port:900041, Path No:0, Time: 0.000005s
+Port:900041, Compressed Path No:0, Time: 0.000004s
+Port:900049, Path No:0, Time: 0.000004s
+Port:900049, Compressed Path No:0, Time: 0.000004s
+Port:300027, Path No:0, Time: 0.000033s
+Port:300027, Compressed Path No:0, Time: 0.000006s
+Port:500029, Path No:40298, Time: 9.492929s
+Port:500029, Compressed Path No:13362, Time: 0.221914s
+Port:200014, Path No:0, Time: 0.000105s
+Port:200014, Compressed Path No:0, Time: 0.000016s
+Port:300006, Path No:0, Time: 0.000037s
+Port:300006, Compressed Path No:0, Time: 0.000007s
+Port:600017, Path No:0, Time: 0.000033s
+Port:600017, Compressed Path No:0, Time: 0.000004s
+Port:300013, Path No:19184, Time: 4.510454s
+Port:300013, Compressed Path No:13741, Time: 0.068902s
+Port:700015, Path No:0, Time: 0.000012s
+Port:700015, Compressed Path No:0, Time: 0.000013s
+Port:900016, Path No:0, Time: 0.000004s
+Port:900016, Compressed Path No:0, Time: 0.000004s
+Port:100032, Path No:31200, Time: 5.819703s
+Port:100032, Compressed Path No:11461, Time: 0.149161s
+Port:900042, Path No:0, Time: 0.000011s
+Port:900042, Compressed Path No:0, Time: 0.000013s
+Port:300016, Path No:0, Time: 0.000037s
+Port:300016, Compressed Path No:0, Time: 0.000005s
+Port:300001, Path No:19185, Time: 4.310611s
+Port:300001, Compressed Path No:13826, Time: 0.074956s
+Port:800003, Path No:0, Time: 0.000010s
+Port:800003, Compressed Path No:0, Time: 0.000013s
+Port:300048, Path No:0, Time: 0.000036s
+Port:300048, Compressed Path No:0, Time: 0.000004s
+Port:500028, Path No:120822, Time: 31.327527s
+Port:500028, Compressed Path No:13300, Time: 0.819905s
+Port:900045, Path No:0, Time: 0.000012s
+Port:900045, Compressed Path No:0, Time: 0.000015s
+Port:800037, Path No:0, Time: 0.000006s
+Port:800037, Compressed Path No:0, Time: 0.000004s
+Port:400018, Path No:18364, Time: 3.540241s
+Port:400018, Compressed Path No:13285, Time: 0.065840s
+Port:400019, Path No:55095, Time: 12.050219s
+Port:400019, Compressed Path No:13318, Time: 0.309640s
+Port:800006, Path No:0, Time: 0.000014s
+Port:800006, Compressed Path No:0, Time: 0.000016s
+Port:400020, Path No:54891, Time: 12.077561s
+Port:400020, Compressed Path No:13288, Time: 0.311623s
+Port:400012, Path No:18363, Time: 3.987139s
+Port:400012, Compressed Path No:13389, Time: 0.068364s
+Port:400002, Path No:0, Time: 0.000056s
+Port:400002, Compressed Path No:0, Time: 0.000015s
+========== Before Compression =========
+Total Paths = 1437855
+Average packets per port = 4167.695652
+Total Time = 1885.840779s
+Start a new round!
+1437855
+Global Compression: Start=79880, End=29285, Ratio=0.366612, Time=3.166691
+Global Compression: Start=79880, End=27873, Ratio=0.348936, Time=2.075011
+Global Compression: Start=79880, End=29771, Ratio=0.372697, Time=1.095378
+Global Compression: Start=79880, End=24632, Ratio=0.308363, Time=1.259860
+Global Compression: Start=79880, End=29717, Ratio=0.372021, Time=1.761001
+Global Compression: Start=79880, End=23399, Ratio=0.292927, Time=3.340950
+Global Compression: Start=79880, End=29902, Ratio=0.374337, Time=1.761706
+Global Compression: Start=79880, End=29088, Ratio=0.364146, Time=1.398513
+Global Compression: Start=79880, End=29912, Ratio=0.374462, Time=1.477973
+Global Compression: Start=79880, End=29149, Ratio=0.364910, Time=1.362691
+Global Compression: Start=79880, End=27366, Ratio=0.342589, Time=2.748545
+Global Compression: Start=79880, End=30297, Ratio=0.379281, Time=1.211426
+Global Compression: Start=79880, End=29625, Ratio=0.370869, Time=1.373778
+Global Compression: Start=79880, End=26475, Ratio=0.331435, Time=1.375763
+Global Compression: Start=79880, End=26718, Ratio=0.334477, Time=1.134959
+Global Compression: Start=79880, End=30151, Ratio=0.377454, Time=1.278581
+Global Compression: Start=79880, End=27601, Ratio=0.345531, Time=1.432048
+Global Compression: Start=79880, End=23493, Ratio=0.294104, Time=1.501345
+Global Compression: Start=15, End=15, Ratio=1.000000, Time=0.001412
+End of this round.
+Start a new round!
+504469
+Global Compression: Start=72067, End=31153, Ratio=0.432278, Time=2.179741
+Global Compression: Start=72067, End=29316, Ratio=0.406788, Time=1.082520
+Global Compression: Start=72067, End=28382, Ratio=0.393828, Time=2.182005
+Global Compression: Start=72067, End=29998, Ratio=0.416252, Time=0.992240
+Global Compression: Start=72067, End=30676, Ratio=0.425659, Time=1.491856
+Global Compression: Start=72067, End=30256, Ratio=0.419832, Time=1.150666
+Global Compression: Start=72067, End=29381, Ratio=0.407690, Time=1.180684
+End of this round.
+Start a new round!
+209162
+Global Compression: Start=69720, End=28351, Ratio=0.406641, Time=0.895451
+Global Compression: Start=69720, End=28395, Ratio=0.407272, Time=1.762672
+Global Compression: Start=69720, End=27721, Ratio=0.397605, Time=0.921511
+Global Compression: Start=2, End=2, Ratio=1.000000, Time=0.000058
+End of this round.
+Start a new round!
+84469
+Global Compression: Start=42234, End=26795, Ratio=0.634441, Time=0.848534
+Global Compression: Start=42234, End=25974, Ratio=0.615002, Time=0.459893
+Global Compression: Start=1, End=1, Ratio=1.000000, Time=0.000272
+End of this round.
+Start a new round!
+52770
+Global Compression: Start=52770, End=25631, Ratio=0.485712, Time=0.550821
+End of this round.
+Start a new round!
+25631
+Global Compression: Start=25631, End=24083, Ratio=0.939604, Time=0.163681
+End of this round.
+Start a new round!
+24083
+Global Compression: Start=24083, End=23401, Ratio=0.971681, Time=0.147234
+End of this round.
+Start a new round!
+23401
+Global Compression: Start=23401, End=23028, Ratio=0.984061, Time=0.130977
+End of this round.
+Start a new round!
+23028
+Global Compression: Start=23028, End=22849, Ratio=0.992227, Time=0.118795
+End of this round.
+========== After Compression =========
+Total Paths = 22849
+Average packets per port = 66.228986
+Average length of rule list = 5.188936
+Total Time = 83.365160s

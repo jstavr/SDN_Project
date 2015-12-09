@@ -1,0 +1,1 @@
+set(['chic', 'losa', 'salt', 'wash'])

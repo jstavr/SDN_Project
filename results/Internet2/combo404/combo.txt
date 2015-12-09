@@ -1,0 +1,1 @@
+set(['wash', 'losa', 'chic', 'newy32aoa', 'kans', 'atla'])

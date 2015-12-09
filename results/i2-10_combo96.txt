@@ -1,0 +1,87 @@
+['hous', 'kans', 'newy32aoa']
+=== Loading transfer function from file work/Internet2/hous.tf ===
+=== Transfer function loaded from file work/Internet2/hous.tf ===
+=== Loading transfer function from file work/Internet2/kans.tf ===
+=== Transfer function loaded from file work/Internet2/kans.tf ===
+=== Loading transfer function from file work/Internet2/newy32aoa.tf ===
+=== Transfer function loaded from file work/Internet2/newy32aoa.tf ===
+=== Loading transfer function from file /home/mininet/SDN_Project2/SDN_Project/atpg/work/Internet2/combo96/backbone_topology.tf ===
+=== Transfer function loaded from file /home/mininet/SDN_Project2/SDN_Project/atpg/work/Internet2/combo96/backbone_topology.tf ===
+Total Rules: 26060
+Total Links: 4
+Total Length: 345
+New Length: 34
+Port:800029, Path No:0, Time: 0.000037s
+Port:800029, Compressed Path No:0, Time: 0.000028s
+Port:300043, Path No:0, Time: 0.000083s
+Port:300043, Compressed Path No:0, Time: 0.000004s
+Port:700015, Path No:0, Time: 0.000003s
+Port:700015, Compressed Path No:0, Time: 0.000003s
+Port:600018, Path No:0, Time: 0.000003s
+Port:600018, Compressed Path No:0, Time: 0.000002s
+Port:100004, Path No:0, Time: 0.000032s
+Port:100004, Compressed Path No:0, Time: 0.000004s
+Port:500013, Path No:0, Time: 0.000003s
+Port:500013, Compressed Path No:0, Time: 0.000002s
+Port:200028, Path No:0, Time: 0.000030s
+Port:200028, Compressed Path No:0, Time: 0.000003s
+Port:600038, Path No:0, Time: 0.000003s
+Port:600038, Compressed Path No:0, Time: 0.000002s
+Port:200012, Path No:0, Time: 0.000013s
+Port:200012, Compressed Path No:0, Time: 0.000003s
+Port:200015, Path No:0, Time: 0.000015s
+Port:200015, Compressed Path No:0, Time: 0.000003s
+Port:200040, Path No:0, Time: 0.000011s
+Port:200040, Compressed Path No:0, Time: 0.000002s
+Port:800031, Path No:0, Time: 0.000002s
+Port:800031, Compressed Path No:0, Time: 0.000002s
+Port:500021, Path No:0, Time: 0.000002s
+Port:500021, Compressed Path No:0, Time: 0.000002s
+Port:400012, Path No:0, Time: 0.000001s
+Port:400012, Compressed Path No:0, Time: 0.000002s
+Port:700006, Path No:0, Time: 0.000001s
+Port:700006, Compressed Path No:0, Time: 0.000002s
+Port:300011, Path No:0, Time: 0.000012s
+Port:300011, Compressed Path No:0, Time: 0.000002s
+Port:300005, Path No:0, Time: 0.000010s
+Port:300005, Compressed Path No:0, Time: 0.000002s
+Port:700012, Path No:0, Time: 0.000001s
+Port:700012, Compressed Path No:0, Time: 0.000002s
+Port:500017, Path No:0, Time: 0.000002s
+Port:500017, Compressed Path No:0, Time: 0.000002s
+Port:300036, Path No:0, Time: 0.000011s
+Port:300036, Compressed Path No:0, Time: 0.000002s
+Port:800004, Path No:0, Time: 0.000002s
+Port:800004, Compressed Path No:0, Time: 0.000002s
+Port:300017, Path No:0, Time: 0.000011s
+Port:300017, Compressed Path No:0, Time: 0.000001s
+Port:500018, Path No:0, Time: 0.000002s
+Port:500018, Compressed Path No:0, Time: 0.000002s
+Port:500031, Path No:0, Time: 0.000002s
+Port:500031, Compressed Path No:0, Time: 0.000001s
+Port:800014, Path No:0, Time: 0.000001s
+Port:800014, Compressed Path No:0, Time: 0.000002s
+Port:900017, Path No:0, Time: 0.000002s
+Port:900017, Compressed Path No:0, Time: 0.000002s
+Port:300006, Path No:0, Time: 0.000011s
+Port:300006, Compressed Path No:0, Time: 0.000002s
+Port:600016, Path No:0, Time: 0.000002s
+Port:600016, Compressed Path No:0, Time: 0.000002s
+Port:400011, Path No:0, Time: 0.000002s
+Port:400011, Compressed Path No:0, Time: 0.000002s
+Port:400019, Path No:0, Time: 0.000002s
+Port:400019, Compressed Path No:0, Time: 0.000002s
+Port:200027, Path No:0, Time: 0.000011s
+Port:200027, Compressed Path No:0, Time: 0.000002s
+Port:800013, Path No:0, Time: 0.000002s
+Port:800013, Compressed Path No:0, Time: 0.000002s
+Port:200029, Path No:0, Time: 0.000011s
+Port:200029, Compressed Path No:0, Time: 0.000002s
+Port:500008, Path No:0, Time: 0.000002s
+Port:500008, Compressed Path No:0, Time: 0.000002s
+========== Before Compression =========
+Total Paths = 0
+Average packets per port = 0.000000
+Total Time = 0.107027s
+Start a new round!
+0
