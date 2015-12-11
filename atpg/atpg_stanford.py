@@ -335,6 +335,7 @@ def main():
     parser.add_argument("-e", action="store_true",
                       default=False,
                       help="Edge port only")
+    parser.add_argument("--folder", dest="work_folder", help="Where to look for transfer functions")
     args = parser.parse_args()
     
     DATABASE_FILE = "work/%s" % args.filename
